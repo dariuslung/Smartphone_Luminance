@@ -10,7 +10,7 @@ This is required for `AmbientLightSensor` as it is still an experimental web API
 2. `app.py` requires the Python package Flask, install it with `pip install Flask`.
 3. Start the server by with `python app.py`.
 
-![smartphone_interface_cropped](https://github.com/dariuslung/Smartphone_Luminance/assets/90674518/ab833a89-37b2-4cd6-a9b2-c8a8ad46cb69)
+![image](https://github.com/dariuslung/Smartphone_Luminance/assets/90674518/26c9909e-a773-49fb-b4eb-ae429ae4d5f5)
 
 5. Observe the IP it is running on.
 If your smartphone is connected to the same network as your server is running on, connect to `https://xxx.xxx.xxx.xxx/` in Chrome Android and bypass the safety warning.
