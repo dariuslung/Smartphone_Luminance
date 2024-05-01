@@ -2,7 +2,6 @@
 Modified from [Smartphone_v1_WebVersion](https://github.com/tsaiwn/Smartphone_v1_WebVersion/)
 
 Automatically binds with IoTTalk device dzo_smartphone
-IDF: Acceleration, Illuminance
 
 ## Tutorial
 1. To get this working on Chrome Android, proceed to `chrome://flags` and set `#enable-generic-sensor-extra-classes` to `Enabled`.
