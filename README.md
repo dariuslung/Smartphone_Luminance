@@ -7,7 +7,7 @@ Automatically binds with IoTTalk device dzo_smartphone
 1. To get this working on Chrome Android, proceed to `chrome://flags` and set `#enable-generic-sensor-extra-classes` to `Enabled`.
 This is required for `AmbientLightSensor` as it is still an experimental web API.
 2. `app.py` requires the Python package Flask, install it with `pip install Flask`.
-3. Start the server by with `python app.py`.
+3. Start the server with `python app.py`.
 
 ![image](https://github.com/dariuslung/Smartphone_Luminance/assets/90674518/26c9909e-a773-49fb-b4eb-ae429ae4d5f5)
 
